@@ -8,4 +8,5 @@ Uma calculadora de gorjetas criada com Javascript, Html e Css.
   
 ### Clique na imagem para acessar:
   
-  [![Captura de Tela 2022-06-13 às 21 15 50](https://user-images.githubusercontent.com/61170444/173467864-b2ba0cf4-1f90-4c6f-9658-793859be5bdb.png)](https://caioassis-dev.github.io/CalculadoraDeGorjeta/)
+  [![image](https://user-images.githubusercontent.com/61170444/192159082-999c9e34-66fb-46b3-a614-b501763520f1.png)
+](https://caioassis-dev.github.io/CalculadoraDeGorjeta/)
